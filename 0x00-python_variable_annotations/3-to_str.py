@@ -4,12 +4,6 @@
 
 
 def to_str(n: float) -> str:
-    '''creates string from a floating-point number.
-    
-    Args:
-        n (float): The floating-point number input.
-        
-    Returns:
-        str: Converting the input number to a string.
+    '''creates string from floating point number.
     '''
     return str(n)
